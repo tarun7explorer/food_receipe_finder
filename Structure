@@ -1,0 +1,10 @@
+food-recipe-app/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── data/
+    ├── indian_dishes.json
+    ├── desserts.json
+    

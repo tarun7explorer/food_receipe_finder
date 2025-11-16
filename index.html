@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Recipe Finder</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav>
+    <h1>🍽️ Food World Recipe Finder</h1>
+    <ul>
+      <li><a href="#home" onclick="showHome()">Home</a></li>
+      <li><a href="#popular" onclick="showIndianDishes()">Indian Dishes</a></li>
+      <li><a href="#desserts" onclick="showDesserts()">Indian Desserts</a></li>
+    </ul>
+    <button class="mode-toggle" onclick="toggleMode()">🌙</button>
+  </nav>
+
+  <header id="home">
+    <div class="header-content">
+      <h2>Explore & Discover Tasty Dishes of India </h2>
+      <p>Find recipes, instructions, and cooking videos effortlessly.</p>
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Enter a dish name (e.g., Butter Chicken)" />
+        <button onclick="searchRecipe()">🔍 Search</button>
+      </div>
+    </div>
+  </header>
+
+  <section id="recipeResult" style="display: none;">
+    <h3>Search Result</h3>
+    <div id="recipeContainer"></div>
+  </section>
+
+  <section id="homeContent">
+    <section id="popular">
+      <h3>Popular Indian Dishes</h3>
+      <div class="grid" id="indianGrid"></div>
+    </section>
+
+    <section id="desserts">
+      <h3>🍰 Indian Sweets & Desserts</h3>
+      <div class="grid" id="dessertGrid"></div>
+    </section>
+  </section>
+
+  <section id="allIndianDishes" style="display: none;">
+    <h3>All Indian Dishes</h3>
+    <div class="grid" id="allIndianGrid"></div>
+    <button class="back-btn" onclick="showHome()">← Back to Home</button>
+  </section>
+
+  <section id="allDesserts" style="display: none;">
+    <h3>🍰 All Indian Sweets & Desserts</h3>
+    <div class="grid" id="allDessertGrid"></div>
+    <button class="back-btn" onclick="showHome()">← Back to Home</button>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ for Food Lovers | Inspired by Mom's love</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

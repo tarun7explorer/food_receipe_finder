@@ -1,0 +1,200 @@
+// desserts.json
+[
+  {
+    "name": "Gulab Jamun",
+    "time": "25 mins",
+    "difficulty": "Easy",
+    "ingredients": "Milk powder, ghee, sugar syrup, cardamom",
+    "steps": "Make dough, deep fry golden, soak in warm sugar syrup.",
+    "img": "https://images.unsplash.com/photo-1617196037885-3099b8c4b7cb",
+    "video": "https://www.youtube.com/watch?v=0UY2A1vTrxE"
+  },
+  {
+    "name": "Chocolate Cake",
+    "time": "35 mins",
+    "difficulty": "Easy",
+    "ingredients": "Flour, cocoa powder, sugar, eggs, butter",
+    "steps": "Mix dry and wet ingredients, bake, then frost with chocolate.",
+    "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+    "video": "https://www.youtube.com/watch?v=8P3AqtK89U8"
+  },
+  {
+    "name": "Brownie",
+    "time": "25 mins",
+    "difficulty": "Easy",
+    "ingredients": "Flour, cocoa powder, eggs, sugar, butter",
+    "steps": "Mix ingredients and bake until soft and fudgy.",
+    "img": "https://images.unsplash.com/photo-1565958011705-44e211f53947",
+    "video": "https://www.youtube.com/watch?v=sZlmz4OPqLk"
+  },
+  {
+    "name": "Tiramisu",
+    "time": "35 mins",
+    "difficulty": "Medium",
+    "ingredients": "Mascarpone, coffee, eggs, sugar, ladyfingers",
+    "steps": "Layer coffee-soaked ladyfingers with mascarpone cream.",
+    "img": "https://images.unsplash.com/photo-1601758174626-2e8266ef6ac3",
+    "video": "https://www.youtube.com/watch?v=tHCMpEO_eQc"
+  },
+  {
+    "name": "Cheesecake",
+    "time": "45 mins",
+    "difficulty": "Medium",
+    "ingredients": "Cream cheese, sugar, eggs, biscuit base",
+    "steps": "Blend ingredients and bake on biscuit crust until set.",
+    "img": "https://images.unsplash.com/photo-1547592180-24f25a34ac51",
+    "video": "https://www.youtube.com/watch?v=On7WUjfSoOw"
+  },
+  {
+    "name": "Rasmalai",
+    "img": "https://images.unsplash.com/photo-1606312619070-d48b4cbc4577?w=400",
+    "time": "60 mins",
+    "ingredients": "Paneer, milk, sugar, saffron, cardamom, pistachios",
+    "steps": "1. Make soft paneer discs and cook in sugar syrup. 2. Prepare thickened sweetened milk. 3. Soak paneer in milk. 4. Garnish with nuts and saffron.",
+    "video": "https://www.youtube.com/watch?v=sVwmfKjVcrI"
+  },
+  {
+    "name": "Jalebi",
+    "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400",
+    "time": "30 mins",
+    "ingredients": "Flour, yogurt, saffron, sugar, cardamom",
+    "steps": "1. Prepare fermented batter. 2. Pipe batter in circular shapes in hot ghee. 3. Fry until crispy. 4. Dip in warm sugar syrup.",
+    "video": "https://www.youtube.com/watch?v=D5jfEqGVY8g"
+  },
+  {
+    "name": "Kheer",
+    "img": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=400",
+    "time": "45 mins",
+    "ingredients": "Rice, milk, sugar, cardamom, saffron, nuts",
+    "steps": "1. Cook rice in milk until soft. 2. Add sugar and cardamom. 3. Simmer until thickened. 4. Garnish with nuts and saffron.",
+    "video": "https://www.youtube.com/watch?v=FAlE-3_F-Lk"
+  },
+  {
+    "name": "Ladoo",
+    "img": "https://images.unsplash.com/photo-1589301773859-342b9be95c4d?w=400",
+    "time": "30 mins",
+    "ingredients": "Gram flour, ghee, sugar, cardamom, nuts",
+    "steps": "1. Roast gram flour in ghee. 2. Add powdered sugar and cardamom. 3. Mix well and form balls. 4. Garnish with chopped nuts.",
+    "video": "https://www.youtube.com/watch?v=xwkz5vCH3iY"
+  },
+  {
+    "name": "Barfi",
+    "img": "https://images.unsplash.com/photo-1606312619070-d48b4cbc4577?w=400",
+    "time": "35 mins",
+    "ingredients": "Condensed milk, milk powder, ghee, cardamom, nuts",
+    "steps": "1. Mix milk powder and condensed milk. 2. Cook in ghee until thick. 3. Spread in greased tray. 4. Cut into diamond shapes.",
+    "video": "https://www.youtube.com/watch?v=VfQRVFhQrU8"
+  },
+  {
+    "name": "Kulfi",
+    "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400",
+    "time": "6 hours (freezing)",
+    "ingredients": "Full cream milk, sugar, cardamom, pistachios, saffron",
+    "steps": "1. Reduce milk to half. 2. Add sugar and cardamom. 3. Pour into molds. 4. Freeze for 6 hours.",
+    "video": "https://www.youtube.com/watch?v=Ztjj0YxJEMc"
+  },
+  {
+    "name": "Halwa",
+    "img": "https://images.unsplash.com/photo-1576866209830-589e1bfbaa4d?w=400",
+    "time": "40 mins",
+    "ingredients": "Semolina/carrot, ghee, sugar, milk, cardamom, nuts",
+    "steps": "1. Roast semolina in ghee. 2. Add hot milk and sugar. 3. Cook until mixture leaves pan sides. 4. Garnish with nuts.",
+    "video": "https://www.youtube.com/watch?v=Tb0MZaeb1T8"
+  },
+  {
+    "name": "Mysore Pak",
+    "img": "https://images.unsplash.com/photo-1589301773859-342b9be95c4d?w=400",
+    "time": "35 mins",
+    "ingredients": "Gram flour, ghee, sugar, cardamom",
+    "steps": "1. Roast gram flour in ghee. 2. Make sugar syrup of one-string consistency. 3. Mix flour and syrup. 4. Pour in greased tray and cut.",
+    "video": "https://www.youtube.com/watch?v=b7P0K5Ysf8g"
+  },
+  {
+    "name": "Payasam",
+    "img": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=400",
+    "time": "50 mins",
+    "ingredients": "Vermicelli, milk, sugar, cardamom, cashews, raisins",
+    "steps": "1. Roast vermicelli in ghee. 2. Cook in milk until soft. 3. Add sugar and cardamom. 4. Garnish with fried nuts.",
+    "video": "https://www.youtube.com/watch?v=q8YyqfAhLAQ"
+  },
+  {
+    "name": "Sandesh",
+    "img": "https://images.unsplash.com/photo-1606312619070-d48b4cbc4577?w=400",
+    "time": "25 mins",
+    "ingredients": "Fresh paneer, sugar, cardamom, saffron",
+    "steps": "1. Knead fresh paneer until smooth. 2. Mix with powdered sugar. 3. Cook briefly on low heat. 4. Shape into decorative molds.",
+    "video": "https://www.youtube.com/watch?v=HqGr-OIJcLc"
+  },
+  {
+    "name": "Peda",
+    "img": "https://images.unsplash.com/photo-1589301773859-342b9be95c4d?w=400",
+    "time": "30 mins",
+    "ingredients": "Milk powder, condensed milk, cardamom, saffron",
+    "steps": "1. Mix milk powder and condensed milk. 2. Cook until thick dough forms. 3. Cool slightly and shape into rounds. 4. Press with thumb and garnish.",
+    "video": "https://www.youtube.com/watch?v=nh8L6TJPUkI"
+  },
+  {
+    "name": "Shrikhand",
+    "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400",
+    "time": "4 hours (straining)",
+    "ingredients": "Yogurt, sugar, cardamom, saffron, pistachios",
+    "steps": "1. Hang yogurt in cloth for 4 hours. 2. Mix thick yogurt with sugar. 3. Add cardamom and saffron. 4. Chill and garnish with nuts.",
+    "video": "https://www.youtube.com/watch?v=gOhHjmDtkv0"
+  },
+  {
+    "name": "Rasgulla",
+    "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400",
+    "time": "50 mins",
+    "ingredients": "Paneer, sugar, water, cardamom, rose water",
+    "steps": "1. Make soft paneer balls. 2. Boil in sugar syrup for 20 mins. 3. Let cool in syrup. 4. Serve chilled with rose water.",
+    "video": "https://www.youtube.com/watch?v=F7IM7dw6TqY"
+  },
+  {
+    "name": "Coconut Burfi",
+    "img": "https://images.unsplash.com/photo-1606312619070-d48b4cbc4577?w=400",
+    "time": "30 mins",
+    "ingredients": "Fresh coconut, condensed milk, cardamom, food color",
+    "steps": "1. Grate fresh coconut. 2. Cook with condensed milk. 3. Add cardamom. 4. Set in tray and cut into pieces.",
+    "video": "https://www.youtube.com/watch?v=LsC39L1Y8ow"
+  },
+  {
+    "name": "Basundi",
+    "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400",
+    "time": "60 mins",
+    "ingredients": "Full cream milk, sugar, cardamom, saffron, almonds",
+    "steps": "1. Boil milk and reduce to half. 2. Add sugar and cardamom. 3. Stir continuously. 4. Chill and garnish with nuts and saffron.",
+    "video": "https://www.youtube.com/watch?v=QmhE5pUDHXg"
+  },
+  {
+    "name": "Khaja",
+    "img": "https://images.unsplash.com/photo-1589301773859-342b9be95c4d?w=400",
+    "time": "45 mins",
+    "ingredients": "Flour, ghee, sugar, cardamom",
+    "steps": "1. Make layered dough with ghee. 2. Cut and deep fry until crispy. 3. Dip in sugar syrup. 4. Drain and serve.",
+    "video": "https://www.youtube.com/watch?v=HhFNd8Q8Spc"
+  },
+  {
+    "name": "Besan Ladoo",
+    "img": "https://images.unsplash.com/photo-1589301773859-342b9be95c4d?w=400",
+    "time": "35 mins",
+    "ingredients": "Gram flour, ghee, powdered sugar, cardamom, almonds",
+    "steps": "1. Roast gram flour in ghee until aromatic. 2. Cool and add powdered sugar. 3. Add cardamom powder. 4. Shape into round balls.",
+    "video": "https://www.youtube.com/watch?v=T7EFr07t29E"
+  },
+  {
+    "name": "Phirni",
+    "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400",
+    "time": "40 mins",
+    "ingredients": "Rice, milk, sugar, cardamom, saffron, rose water",
+    "steps": "1. Soak and grind rice to coarse paste. 2. Cook in milk until thick. 3. Add sugar and cardamom. 4. Serve in clay bowls with saffron.",
+    "video": "https://www.youtube.com/watch?v=Db1pKPL0J4Y"
+  },
+  {
+    "name": "Modak",
+    "img": "https://images.unsplash.com/photo-1589301773859-342b9be95c4d?w=400",
+    "time": "50 mins",
+    "ingredients": "Rice flour, jaggery, coconut, cardamom, ghee",
+    "steps": "1. Make dough with rice flour. 2. Prepare coconut-jaggery filling. 3. Shape into dumplings. 4. Steam for 10-12 mins.",
+    "video": "https://www.youtube.com/watch?v=N1AE59QDVBA"
+  }
+]
